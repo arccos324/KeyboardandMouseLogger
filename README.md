@@ -81,4 +81,4 @@ This program records keyboard and mouse input events. Each event is stored in a 
 
 ## The Most Important thing you need to Know:
 
-** This is a malicious program, which may be detected by your Anti-Virus, please use it properly**
+## This is a malicious program, which may be detected by your Anti-Virus, please use it properly

@@ -47,7 +47,7 @@ This Rust program records keyboard and mouse input events and saves them to a JS
 2. Check Logfile and filter the data you want
 
 ```powershell
-    # If I only wanna see what the user printed with the keyboard
+    # If You only wanna see what the user printed with the keyboard
     type log_****.jsonl | Findstr "CharInput"
 ```
 
@@ -78,3 +78,7 @@ This program records keyboard and mouse input events. Each event is stored in a 
 - 3.changing the time to automatically terminate the program(which is in the """main function""").
 
 ---
+
+## The Most Important thing you need to Know:
+
+** This is a malicious program, which may be detected by your Anti-Virus, please use it properly**
